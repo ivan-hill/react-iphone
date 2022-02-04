@@ -1,0 +1,231 @@
+{
+  "present": {
+    "title": "There’s no phone like iPhone.",
+    "promo": "iPhone 13 Pro takes a huge leap forward, bringing incredible speed to everything you do and dramatic new photo and video capabilities — all in two great sizes.",
+    "imgSrc": "../../db/present/iPhone-main.png",
+    "imgAlt": "iPhone13"
+  },
+  "card": {
+    "title": "Apple iPhone 13 Pro ",
+    "models": {
+      "graphite": {
+        "imgSrc": "../../db/present/iPhone-graphite.webp",
+        "color": "Graphite",
+        "memory": "128",
+        "name": "Graphite",
+        "price": "800.00"
+      },
+      "silver": {
+        "imgSrc": "../../db/present/iPhone-silver.webp",
+        "color": "Silver",
+        "memory": "256",
+        "name": "Silver",
+        "price": "850.00"
+      },
+      "sierraBlue": {
+        "imgSrc": "../../db/present/iPhone-sierra_blue.webp",
+        "color": "Sierra Blue",
+        "memory": "512",
+        "name": "Sierra Blue",
+        "price": "950.00"
+      }
+    },
+    "details": {
+      "screen": "6.1-inch Super Retina XDR display",
+      "tech-screen": "Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1200 nits (peak)",
+      "processor": "A15 Bionic chip New 6‑core CPU with 2 performance and 4 efficiency cores New 5‑core GPU Next‑generation Neural Engine",
+      "memory": "",
+      "camera": "Main camera (MPix): 12/12/12/LiDAR"
+    }
+  },
+  "characteristics": {
+    "display": {
+      "title": "Display",
+      "descriptions": [
+        ["Display type", "Super Retina XDR (OLED)"],
+        ["Diagonal (inch)", "6.1"],
+        ["Resolution (pix)", "2532x1170"],
+        ["Pixel Density (PPI)", "460"],
+        ["Number of display colors", "16 million."],
+        ["Touchscreen ", "Yes"],
+        ["Touch screen type", "capacitivC"],
+        ["Multitouch support", "yes"],
+        ["Screen protection", "Ceramic Shield"],
+        ["Display features", "wide color display (P3), displayTrue Tone"],
+        ["Oleophobic coating", "yes"]
+      ]
+    },
+    "camera": {
+      "title": "Camera",
+      "descriptions": [
+        ["Camera (MP)", "12 + 12 + 12 + LiDAR Scanner"],
+        ["Optical zoom", "x6"],
+        ["Image stabilization", "Optical"],
+        ["Autofocus", "hybrid"],
+        ["Flash", "True Tone"],
+        ["Video Record", "Yes"],
+        ["Video Recording Resolution (Pixels)", "3840 x 2160"],
+        ["Movie Frame Rate", "60"],
+        ["Video Stabilization", "Yes"],
+        ["Front camera (MP)", "12"]
+      ]
+    },
+    "cell": {
+      "title": "Connection",
+      "descriptions": [
+        ["GSM bands", "850, 900, 1800, 1900"],
+        ["UMTS Bands", "850, 900, 1700, 1900, 2100"],
+        ["Internet", "GPRS, EDGE, 3G, 4G, 5G"],
+        ["Bluetooth", "5.0"],
+        ["Wi-Fi (802.11ax)", "b, g, n, ac, 2.4 GHz, 5 GHz"],
+        ["NFC", "Yes"],
+        ["Synchronization connector", "Apple Lightning"],
+        ["Apple Pay", "Yes"]
+      ]
+    },
+    "processor": {
+      "title": "CPU",
+      "descriptions": [
+        ["Processor", "Apple A15 Bionic"],
+        ["64-bit architecture", "Yes"]
+      ]
+    },
+    "memory": {
+      "title": "Memory",
+      "descriptions": [
+        ["Built-in memory (GB)", "128"],
+        ["Support for memory cards", "No"]
+      ]
+    },
+    "media": {
+      "title": "Multimedia",
+      "descriptions": [
+        ["Audio player", "yes"],
+        ["People", "yes"],
+        ["Audio Connector", "Apple Lightning"],
+        ["Surround sound", "Yes"]
+      ]
+    },
+    "system": {
+      "title": "System",
+      "descriptions": [
+        ["Operating system", "iOS 15"],
+        [
+          "Navigation",
+          "GPS, GLONASS, A-GPS, GALILEO, pinpointing function iBeacon, QZSS"
+        ]
+      ]
+    },
+    "sim": {
+      "title": "SIM-card",
+      "descriptions": [
+        ["SIM-card", "nano-SIM"],
+        ["Quantity SIM-card", "1"]
+      ]
+    },
+    "power": {
+      "title": "Power",
+      "descriptions": [
+        ["Battery type", "Li-ion, non-removable"],
+        ["Charging connector", "Proprietary Apple Lightning"],
+        ["Wireless charger", "Yes"],
+        ["Support fast charging technology", "Yes"],
+        ["Music playback (h)", "75"],
+        ["Video playback (h)", "22"]
+      ]
+    },
+    "body": {
+      "title": "Frame",
+      "descriptions": [
+        ["Case type", "Classic"],
+        ["Height (мм)", "146.7"],
+        ["Width (мм)", "71.5"],
+        ["Thickness (мм)", "7.65"],
+        ["Weight (G)", "204"],
+        ["Case material", "Stainless steel, glass"],
+        ["Protection against moisture and dust", "Yes"],
+        ["Protection Standard", "IP68"]
+      ]
+    }
+  },
+  "cross-sell": [
+    {
+      "id": "10024343b",
+      "name": "Smart speaker with Alice Yandex.Station black",
+      "photo": "../../db/cross-sell/10024343b.jpg",
+      "price": "129.90"
+    },
+    {
+      "id": "30052979b",
+      "name": "Smart Watch Apple Watch S6 44mm Space Gray Aluminum Case with Black Sport Band",
+      "photo": "../../db/cross-sell/30052979b.jpg",
+      "price": "394.90"
+    },
+    {
+      "id": "50047745b",
+      "name": "Headphones Apple EarPods with Lightning Connector",
+      "photo": "../../db/cross-sell/50047745b.jpg",
+      "price": "19.90"
+    },
+    {
+      "id": "50051752b",
+      "name": "Flash drive for Apple Leef iBridge3 64 GB, silver",
+      "photo": "../../db/cross-sell/50051752b.jpg",
+      "price": "71.90"
+    },
+    {
+      "id": "50126638b",
+      "name": "Headphones Apple AirPods w/Charging Case",
+      "photo": "../../db/cross-sell/50126638b.jpg",
+      "price": "129.90"
+    },
+    {
+      "id": "50131681b",
+      "name": "Cable for iPod, iPhone, iPad Apple USB-C to Lightning Cable 1 m",
+      "photo": "../../db/cross-sell/50131681b.jpg",
+      "price": "17.90"
+    },
+    {
+      "id": "50132022b",
+      "name": "Wireless charger InterStep QI",
+      "photo": "../../db/cross-sell/50132022b.jpg",
+      "price": "49.90"
+    },
+    {
+      "id": "50133735b",
+      "name": "External battery TFN Pocket PD PB-216",
+      "photo": "../../db/cross-sell/50133735b.jpg",
+      "price": "27.90"
+    },
+    {
+      "id": "50135795b",
+      "name": "Car charger TFN Rapid+",
+      "photo": "../../db/cross-sell/50135795b.jpg",
+      "price": "9.90"
+    },
+    {
+      "id": "50143532b",
+      "name": "Screen Protector InterStep iPhone 12/12 Pro",
+      "photo": "../../db/cross-sell/50143532b.jpg",
+      "price": "19.90"
+    },
+    {
+      "id": "50144492b",
+      "name": "Nano iPhone Charger Anker PowerPort 3 Nano 20W USB-C White",
+      "photo": "../../db/cross-sell/50144492b.jpg",
+      "price": "15.90"
+    },
+    {
+      "id": "50144562b",
+      "name": "Phone Case Apple iPhone 12 / 12 Pro Silicone MagSafe Black",
+      "photo": "../../db/cross-sell/50144562b.jpg",
+      "price": "49.90"
+    },
+    {
+      "id": "50144578b",
+      "name": "Apple MagSafe Charger",
+      "photo": "../../db/cross-sell/50144578b.jpg",
+      "price": "39.90"
+    }
+  ]
+}

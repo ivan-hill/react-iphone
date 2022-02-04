@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknew_project=self.webpackChunknew_project||[]).push([[251],{5251:function(e,n,r){r.r(n),r.d(n,{default:function(){return i}});r(2791);var c=r(4986),t=r(4433),u=r(184),i=function(){return(0,u.jsx)("main",{children:(0,u.jsx)(t.Z,{children:(0,u.jsx)(c.wo,{children:"Terms of delivery"})})})}}}]);
+//# sourceMappingURL=251.48f0e7ba.chunk.js.map
